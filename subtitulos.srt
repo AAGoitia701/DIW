@@ -1,0 +1,68 @@
+1
+00:00:01,000-->00:00:05,000
+-Cristina, padre. Venga, por favor. 
+
+2
+00:00:05,00-->00:00:09,000
+-Menos mal que ha venido. No veas las ganas que teníamos de que nos cuentes. 
+
+3
+00:00:09,000-->00:00:14,000
+-Es que tengo que daros una buena noticia. Nos han concedido el permiso.
+-¿En serio?
+-Sí.
+
+4
+00:00:14,00-->00:00:22,000
+-Ana María ha podido moverlo todo muy rápido para que mañana mismo Manolita esté en su casa y pueda hacerse las pruebas en el hospital. 
+
+5
+00:00:22,000-->00:00:23,000
+-Qué bien, muchas gracias. 
+
+6
+00:00:23,000-->00:00:27,000
+-Oye, una cosa. Cristina, ¿tiene que ir a un hospital en concreto?
+
+7
+00:00:27,000-->00:00:30,000
+-Pues, no lo sé. ¿Por qué?
+
+8
+00:00:30,000-->00:00:40,000
+-Ehhh. Verás, es que hemos estado hablando con el capitán Abascal y parece ser que él puede hacer algunas gestiones para que le hagan la prueba con esa máquina que le hablaste a Marcelino. ¿Cómo se llama? El ecógrafo. 
+
+9
+00:00:40,000-->00:00:46,000
+-Si, si. Me parece perfecto, voy a consultárselo a Ana María para ver lo que puede hacer. ¿De acuerdo?
+-Bien. 
+
+10
+00:00:46,000-->00:00:52,000
+-Sea en el hospital que sea, yo podría acompañarla a la prueba. 
+
+11
+00:00:52,000-->00:00:58,000
+-Eso ya no lo sé, Marcelino. Es una reclusa y seguramente irá con vigilancia. 
+
+12
+00:00:58,000-->00:01:03,000
+-Ya, pero yo tengo que estar a su lado. Aunque sea dos metros, a cuatro, a ocho, me da igual. Pero, yo tengo que estar ahí con mi mujer. 
+-Bueno, no te preocupes. 
+
+13
+00:01:03,000-->00:01:13,000
+-Yo lo voy a preguntar. No creo que haya ningún problema. Al fin y al cabo no es un asunto de seguridad nacional.
+-Eso es, Cristina. Y, tengo que estar ahí.  
+
+14
+00:01:13,000-->00:01:17,000
+-Inténtalo, por favor. Es muy importante que estén juntos ahora. 
+
+15
+00:01:17,000-->00:01:20,000
+-Que sí, si si. Lo voy a preguntar. De verdad. 
+
+16
+00:01:20,000-->00:01:23,000
+-Venga, que va a salir todo bien. Ánimo. 
